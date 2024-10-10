@@ -1,4 +1,4 @@
-name: rust
+name: build-and-deploy
 
 on:
   push:
